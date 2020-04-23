@@ -23,7 +23,7 @@ It displays the title, description and link to full story.
 6) After all node modules are installed properly, run the command "npm start".
 7) This will initiate app and you can see the Single Page Application on localhost:3000
 
-Note: If ou find any issues running the app try removing the previously installed versions of babel and webpack 
+Note: If you find any issues running the app try removing the previously installed versions of babel and webpack located at /Users/node_modules/babel & /Users/node_modules/webpack
 (Tested and worked for: babel 8.0.6 and webpack 4.42.0)
 
 # Video of running the app
